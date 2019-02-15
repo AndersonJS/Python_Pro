@@ -1,0 +1,46 @@
+    1.Programação Procedural-Esse Paradigma consiste em definir a resolução de um problema,passo a passo,de forma linear.
+Funciona como uma receita culinária, onde cada passo é definido exatamente um depois do outro.
+    2.Tipos Básicos
+        2.1 Números Inteiros
+            Vejamos Operações com números inteiros e também com obter o tipo de um objeto com a função type.
+
+            Em Python tudo é objeto e conseguimos pergunta o tipo do objeto com a função type e passar o tipo.
+                Ex:
+                >>> type (1)
+                <class 'int'>
+            Operações que podemos fazer com números inteiros.
+                EX:
+                >>>1+1 Soma
+                2
+                >>>2-1 Subtração
+                1
+                >>>6*7 Multiplicação  - O Sinal é o * é não o X.
+                42
+                >>>5/2 Divisão Real
+                2.5
+                >>>5//2 Divisão Inteira
+                2
+                >>>5%2 Resto da Divisão
+                1
+                >>>2**3 Exponenciação
+                8
+            Python é uma linguagem de altissimo nivel, pois em algumas outras linguagens o numero interito é limitado de
+            acordo com anotação binária,por exemplo:
+
+            Java tem o maior inteiro que é o longue representado por 64 bits.
+            Então temos 1 bit é para o sinal e os demais 63 bits são utilizados para representar o numero,então chegamos
+            na conclusão de que!!
+                Ex:
+                >>>2**63
+                9223372036854775808
+            Em Python se tentar usar um numero maior que 64 bits, podemos ter um numero imenso, mais desde que caiba na
+            memoria o Python toma conta, sem ter o estouro, comum em outras linguagens.
+
+            Em Python legitibilidade conta, então para exemplificar podemos escrever o numero 1000000 desta forma
+            1_000_000
+        14/02/2019
+        2.2 Número Float
+
+        2.3 Variável e Atribuição -
+        2.4 Booleano -
+        2.5 Desvios Condicionais -
