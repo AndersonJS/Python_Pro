@@ -1,0 +1,215 @@
+    1.Programação Procedural-Esse Paradigma consiste em definir a resolução de um problema,passo a passo,de forma linear.
+Funciona como uma receita culinária, onde cada passo é definido exatamente um depois do outro.
+    2.Tipos Básicos
+        2.1 Números Inteiros
+            Vejamos Operações com números inteiros e também com obter o tipo de um objeto com a função type.
+
+            Em Python tudo é objeto e conseguimos pergunta o tipo do objeto com a função type e passar o tipo.
+                Ex:
+                >>> type (1)
+                <class 'int'>
+            Operações que podemos fazer com números inteiros.
+                EX:
+                >>>1+1 Soma
+                2
+                >>>2-1 Subtração
+                1
+                >>>6*7 Multiplicação  - O Sinal é o * é não o X.
+                42
+                >>>5/2 Divisão Real   - Valor Real em Python é chamado Float por conte ponto decimal.
+                2.5
+                >>>5//2 Divisão Inteira - Iguinora a parte decimal e mostra apenas a inteira.
+                2
+                >>>5%2 Resto da Divisão - Retorna o que sobra da divisão.
+                1
+                >>>2**3 Exponenciação
+                8
+            Python é uma linguagem de altissimo nivel, pois em algumas outras linguagens o numero interito é limitado de
+            acordo com anotação binária,por exemplo:
+
+            Java tem o maior inteiro que é o longue representado por 64 bits.
+            Então temos 1 bit é para o sinal e os demais 63 bits são utilizados para representar o numero,então chegamos
+            na conclusão de que!!
+                Ex:
+                >>>2**63
+                9223372036854775808
+            Em Python se tentar usar um numero maior que 64 bits, podemos ter um numero imenso, mais desde que caiba na
+            memoria o Python toma conta, sem ter o estouro, comum em outras linguagens.
+
+            Em Python legitibilidade conta, então para exemplificar podemos escrever o numero 1000000 desta forma
+            1_000_000
+        14/02/2019
+
+        2.2 Número Float
+            É utilizado para representar números que contém parte decimal.
+                Ex:
+                >>>1.35    - Observe que Python vem da lingua Inglesa e por isso o separador é o ponto e não a virgula.
+                1.35
+                >>> type(1.35) - Veja quando perguntamos ao Python ele nos mostra que o número é uma classe float.
+                <class 'float'>
+            Para números que começam com zero, podemos ometir o zero.
+                Ex:
+                >>>0.34
+                0.34
+                >>>.34
+                0.34
+            Operações que podemos fazer com números float.
+                Ex:
+                >>>.1+.2    - Veja que esse é um caso interessante, porque os números são representados no seu formato
+                0.30000000000000004    binário de maquina e .3 não é possivel representar extamente neste formato, isso
+                                       é interessante caso precise de exatidão nos calculos,como em trabalohs com moedas
+                >>>.1-.2
+                -.1
+                >>>.1*.2
+                0.02000000000000004
+                >>>.1/.2
+                0.5
+            Todas as outras operações que são aplicadas ao inteiro também se aplica ao float.
+
+            Float para Interiro.
+                Ex:
+                >>>type(1.0)
+                <class 'float'>
+                >>>int(1.0)    - Para converter um float para inteiro deve ser usado a função int.
+                1
+                >>>int(1.5)    - Nesse caso é feito a truncagem, ou seja a parte decimal é ignorada.
+                1
+                >>>float(1)    - Para converter um inteiro para float deve ser usado a função float.
+                1.0
+                >>>_    - O Andescor acessa o ultimo elemento que foi impresso.
+                1.0
+                >>>type(_)
+                <class'float'>
+             Bonus.
+
+            Python já vem o número complexo embutido.
+                Ex:
+                >>>1j
+                1j
+                >>>type(1j)
+                <class 'complex'>
+                >>>1j**2
+                (-1+0j)    - Formato imaginario.
+            O número complexo também tem todas as operações que o inteiro e o float tem.
+            -Na época de escola para se resolver um número complexo, precisava conhecer a formula do Binômio de Newton.
+            Ainda bem que o Pythontoma conta dessa operação para o desenvolvedor focar em seu código.
+        16/02/2019
+
+        2.3 Variável e Atribuição
+            Vamos aprender o que é e como criar uma variável e alterar valores através da operação de atribuição.
+
+            Variável em Python é um nome que você vai da a um determinado objeto.
+                Ex:
+                >>>n = 1   -É chamado de atribuição, pois o valor de n passa a vale 1.
+                >>>n
+                1
+                >>>type (n)
+                <class 'int'>
+            Para se criar uma temos algumas regra, como que uma variável pode começar com uma letra ou um Andescor e
+            nunca com números e não pode conter espaços ou caracteres especiais ou ç e acentuação.
+            Os numeros só podem aparecer depois de uma letra.
+                Ex:
+                >>>n_n8 = 8  - Neste caso no lugar de um espaço se usa o Andescor e número em seu corpo.
+                8
+            Quando você tenta acessa uma variavél que ainda não exite o console apresenta um erro.
+                EX:
+                >>> X
+                Traceback (Most recent call last):
+                   File "<stdin>", line1, in <modulo>
+                NameError: name 'X' is not defined
+
+            Python é uma linguagem dinanmica, isso significa que sua variaveis não possuem tipo fixo.
+                Ex:
+                >>> n
+                1
+                >>> type(n)
+                <class'int'>
+                >>> n = 1j
+                >>> type(n)
+                <class'complex'>
+                >>> n = 1.0
+                >>> type(n)
+                <class'float'>
+            Vimos que 'n' teve seu tipo alterado algumas vezes por se uma linguagem dinanmica e não estatica com o C.
+
+            Também podemos utilizar uma variável em uma expressão.
+                Ex:
+                >>> n+1
+                2.0
+            Também podemos guarda resultaods de outras expressões em outras variáveis.
+                Ex:
+                >>> Resultado = n+1
+                >>> Resultado
+                2.0
+                >>> n = n+1  - Podemos representar desta forma n +=1
+                >>> n
+                2.0
+        2.4 Booleano
+            Vamos aprender como criar a lógica Booleana e os nomes das constantes em Python, que são os valores
+            verdadeiro e falso. Confira também as operações lógicas fundamentais.
+
+            Negação com "and" e "or". Por fim confira como comparar números.
+
+            Para se trabalhar a lógica Booleana em programação, temos de saber o básico de algumas operações.
+            Existem outras operações na lógica Booleana mais abordaremos as mais básicas.
+
+            Na lógica Booleana temos duas constantes que são:
+                Ex:
+                >>>True    -Que significa verdadeiro.
+                >>>False   -Que significa Falso.
+
+            Negação:
+            Em Python podemos nega usando a palavra "not" e um booleano ou uma expressão booleana.
+                Ex:
+                >>> not True  -Não verdadeiro
+                false
+                >>> not False -Não falso
+                true
+            Assima temos exemplos de expressões unarias, que tem apenas um argumento lógico.
+
+            A outras duas  operações básicas que são binarias ou seja dependem de dois argumentos que são:
+                Ex:
+                >>> True or True    -O "or" consiste em retorna verdadeiro se um dos argumentos for verdadeiro.
+                True
+                >>> True or False
+                True
+                >>> False or True
+                True
+                >>> False or False  -O "or" só retorna False, se os dois argumentos for falso.
+                False
+
+            Também temos o "and",que só retorna verdadeiro se os dois argumentos for vedadeiros.
+                Ex:
+                >>> False and True
+                False
+                >>> True and False
+                False
+                >>> False and False
+                False
+                >>> True and True
+                True
+
+            Quando trabalhamos com números temos os comparadores lógicos.
+                Ex:
+                >>> 5 > 6   - 5 é maior que 6
+                False
+                >>> 5 < 6   - 5 é menor que 6
+                True
+                >>> 5 <= 6  - 5 é menor igual a 6
+                True
+                >>> 5 >= 6  - 5 é maior igual a 6
+                False
+                >>> 6 == 6  - 6 é igual a 6
+                True
+                >>>6 != 7   - 6 é diferente de 7
+                True
+
+            Podemos verificar se um numero esta em um determinado intervalo.
+                Ex:
+                >>> n = 7
+                >>> 1 < n and n < 5
+                false
+                >>> 1<n<6  - Lembre se que legibilidade importa.
+                false
+        2.5 Desvios Condicionais -
+        
