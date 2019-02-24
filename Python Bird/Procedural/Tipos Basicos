@@ -232,7 +232,6 @@
                         print(idade)    - Podemos colocar vários elif para testa uma condição.
                     else:
                         print(65)    - Mesmo colocando  varios elif o usuario podera digita um valor que não atenda as
-                                       condições e é neste caso que usamos o else, geralmente o else retorna uma msg de
-                                       erro ou valor invalido.
-
+                                       condições e é neste caso que usamos o else, geralmente o else é usado para
+                                        retorna uma msg de erro ou valor invalido.
     Aqui terminamos esse tópico.
