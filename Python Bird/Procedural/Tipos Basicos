@@ -1,5 +1,5 @@
     1.Programação Procedural-Esse Paradigma consiste em definir a resolução de um problema,passo a passo,de forma linear.
-Funciona como uma receita culinária, onde cada passo é definido exatamente um depois do outro.
+        Funciona como uma receita culinária, onde cada passo é definido exatamente um depois do outro.
     2.Tipos Básicos
         2.1 Números Inteiros
             Vejamos Operações com números inteiros e também com obter o tipo de um objeto com a função type.
@@ -212,4 +212,27 @@ Funciona como uma receita culinária, onde cada passo é definido exatamente um 
                 >>> 1<n<6  - Lembre se que legibilidade importa.
                 false
         2.5 Desvios Condicionais -
-        
+            Aprenda como executar porções de código de forma condicional, confira também como é feita a definição de um
+            escopo em Python.
+
+            Um desvio condicional serve para executar um certo trecho do código somente se determinada condição for
+            atendida.
+                Ex:
+                >>> idade = 3
+                >>> if idade < 18:
+                        print(17)    - A identação determina o escopo, e pode ser 1 tab ou 4 espaços, prefira 4 espaços
+                        print(16)
+
+            Se nosso código necessitar podemos testa outra condições com o elif.
+                Ex:
+                >>> idade = 3
+                >>> if idade < 18:
+                        print(17)
+                    elif idade < 60:
+                        print(idade)    - Podemos colocar vários elif para testa uma condição.
+                    else:
+                        print(65)    - Mesmo colocando  varios elif o usuario podera digita um valor que não atenda as
+                                       condições e é neste caso que usamos o else, geralmente o else retorna uma msg de
+                                       erro ou valor invalido.
+
+    Aqui terminamos esse tópico.
