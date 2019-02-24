@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ad726e-b085-4bf2-bd47-a34a9d215653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3.Containers e Iteração/1. String, Dir e help./1.String, Dir e Help..py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Containers e Iteração/1. String, Dir e help./3. Tupla e Id.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Containers e Iteração/2.Lista e Range..py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.Containers e Iteração/READ ME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.Containers e Iteração/1. String, Dir e help./1.String, Dir e Help..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.Containers e Iteração/1. String, Dir e help./3. Tupla e Id.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.Containers e Iteração/2.Lista e Range..py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.Containers e Iteração/READ ME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Bird/Procedural/Tipos Basicos" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,48 +16,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/Tipos Basicos">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="235" column="82" selection-start-line="235" selection-start-column="82" selection-end-line="235" selection-end-column="82" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.Containers e Iteração/READ ME">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.Containers e Iteração/1. String, Dir e help./1.String, Dir e Help..py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="20" column="75" selection-start-line="20" selection-start-column="75" selection-end-line="20" selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3.Containers e Iteração/2.Lista e Range..py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="69" column="6" lean-forward="true" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.Containers e Iteração/1. String, Dir e help./3. Tupla e Id.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/Cronometro.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -116,13 +75,13 @@
             <path>
               <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
-              <item name="3.Containers e Iteração" type="462c0819:PsiDirectoryNode" />
+              <item name="Python Bird" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
-              <item name="3.Containers e Iteração" type="462c0819:PsiDirectoryNode" />
-              <item name="1. String, Dir e help." type="462c0819:PsiDirectoryNode" />
+              <item name="Python Bird" type="462c0819:PsiDirectoryNode" />
+              <item name="Procedural" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -276,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551032313768</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Strings, Listas, Tuplas e Dicionários.">
+      <created>1551047637803</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1551047637803</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -312,20 +278,20 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1366" height="768" extended-state="7" />
+    <frame x="0" y="-1" width="1366" height="768" extended-state="6" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23306032" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962604" visible="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962604" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32919255" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32919255" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50037396" side_tool="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -336,7 +302,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Procedural e Tipos Básicos" />
     <MESSAGE value="Procedural e Tipos Básicos (int, float, Var. e atribuição, Nº complexos, boolianos e devios condicionais)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Procedural e Tipos Básicos (int, float, Var. e atribuição, Nº complexos, boolianos e devios condicionais)." />
+    <MESSAGE value="Strings, Listas, Tuplas e Dicionários." />
+    <MESSAGE value="Trabalhando com Strings,Tuplas, Listas e Dicionários." />
+    <option name="LAST_COMMIT_MESSAGE" value="Trabalhando com Strings,Tuplas, Listas e Dicionários." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/cronometro2.py" />
@@ -344,13 +312,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
           <caret line="235" column="82" selection-start-line="235" selection-start-column="82" selection-end-line="235" selection-end-column="82" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/Cronometro.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -377,6 +338,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3.Containers e Iteração/1. String, Dir e help./3. Tupla e Id.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/Cronometro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
