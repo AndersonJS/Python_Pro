@@ -1,0 +1,20 @@
+Nesse capitulo você vai aprender como modularizar seu código com estrutura básicas da linguagem Python:
+
+Funções, Modulos e Pacotes.
+
+Assim seu código começa a ser dividido para que não fique sobrecarregado. Você vai conferir também como documentar o
+seu código para facilitar a leitura. Por fim será feito um exercício ao final da seção
+abordando os conceitos de toda a sessão procedural, finalizando com um tópico de retrospectiva.
+
+Tópicos.
+1. Função e PEP 8
+2. Parâmetros de Função
+3. Parâmetros de Variáveis
+4. Módulo
+5. Debug
+6. Import e __name__
+7. Pacote
+8. Docstring e Comentário
+9. Contagem de Caracteres com lista
+10.Contagem de Caracteres com dicionário
+11.Retrospectiva: Paradigma Procedural.

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ad726e-b085-4bf2-bd47-a34a9d215653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Bird/Procedural/3.Containers e Iteração/1. String, Dir e help./7.Dicionários (Mapas).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/Read me" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,11 +31,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/3.Containers e Iteração/1. String, Dir e help./7.Dicionários (Mapas).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="68">
+              <caret line="4" column="1" selection-start-line="4" selection-end-line="5" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/3.Containers e Iteração/1. String, Dir e help./8.Iteração em Dicionário.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/Read me">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -69,6 +87,8 @@
         <option value="$PROJECT_DIR$/Python Bird/Procedural/3.Containers e Iteração/1. String, Dir e help./For.py" />
         <option value="$PROJECT_DIR$/Python Bird/Procedural/3.Containers e Iteração/1. String, Dir e help./7.Dicionários/Mapas.py" />
         <option value="$PROJECT_DIR$/Python Bird/Procedural/3.Containers e Iteração/1. String, Dir e help./Dicionários (Mapas).py" />
+        <option value="$PROJECT_DIR$/Python Bird/Procedural/3.Containers e Iteração/1. String, Dir e help./8.Iteração em Dicionário.py" />
+        <option value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/Read me" />
       </list>
     </option>
   </component>
@@ -110,15 +130,7 @@
               <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
               <item name="Python Bird" type="462c0819:PsiDirectoryNode" />
               <item name="Procedural" type="462c0819:PsiDirectoryNode" />
-              <item name="3.Containers e Iteração" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
-              <item name="Python Bird" type="462c0819:PsiDirectoryNode" />
-              <item name="Procedural" type="462c0819:PsiDirectoryNode" />
-              <item name="3.Containers e Iteração" type="462c0819:PsiDirectoryNode" />
-              <item name="1. String, Dir e help." type="462c0819:PsiDirectoryNode" />
+              <item name="4.Modulação" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -141,28 +153,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Dicionários (Mapas)">
-    <configuration name="3. Tupla e Id" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Pro-SSH" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Bird/Procedural/3.Containers e Iteração/1. String, Dir e help." />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Bird/Procedural/3.Containers e Iteração/1. String, Dir e help./3. Tupla e Id.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.8.Iteração em Dicionário">
     <configuration name="4.Acesso , tamanho e Fatiamento" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Pro-SSH" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,6 +188,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Bird/Procedural/3.Containers e Iteração/1. String, Dir e help./5.While.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="8.Iteração em Dicionário" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Pro-SSH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Bird/Procedural/3.Containers e Iteração/1. String, Dir e help." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Bird/Procedural/3.Containers e Iteração/1. String, Dir e help./8.Iteração em Dicionário.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.8.Iteração em Dicionário" />
         <item itemvalue="Python.Dicionários (Mapas)" />
         <item itemvalue="Python.For" />
         <item itemvalue="Python.5.While" />
         <item itemvalue="Python.4.Acesso , tamanho e Fatiamento" />
-        <item itemvalue="Python.3. Tupla e Id" />
       </list>
     </recent_temporary>
   </component>
@@ -380,7 +392,21 @@
       <option name="project" value="LOCAL" />
       <updated>1551196976645</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Dicionário, exemplos de chaves e valores.">
+      <created>1551199655789</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1551199655789</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Usando o for para iterar com o dicionario e o uso das keys, values e items no retorno do print.">
+      <created>1551200904960</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1551200904960</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -417,20 +443,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1366" height="768" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23306032" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23306032" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49962604" visible="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962604" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32919255" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32763976" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32763976" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50037396" side_tool="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -477,7 +502,9 @@
     <MESSAGE value="Fatiamentos de lista visando a legibilidade do código." />
     <MESSAGE value="Tipo de laço while com range." />
     <MESSAGE value="Comparação While e For com estruturação de um for legivel." />
-    <option name="LAST_COMMIT_MESSAGE" value="Comparação While e For com estruturação de um for legivel." />
+    <MESSAGE value="Dicionário, exemplos de chaves e valores." />
+    <MESSAGE value="Usando o for para iterar com o dicionario e o uso das keys, values e items no retorno do print." />
+    <option name="LAST_COMMIT_MESSAGE" value="Usando o for para iterar com o dicionario e o uso das keys, values e items no retorno do print." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/cronometro2.py" />
@@ -526,8 +553,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/3.Containers e Iteração/1. String, Dir e help./7.Dicionários (Mapas).py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="68">
+          <caret line="4" column="1" selection-start-line="4" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/3.Containers e Iteração/1. String, Dir e help./8.Iteração em Dicionário.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/Read me">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
         </state>
       </provider>
     </entry>
