@@ -7,4 +7,4 @@ print(s(4, 5))
 podemos dizer que 'de (da pasta diretorio) exemplo_pacote (pegue o arquivo) mat e dentro deste arquivo quero o script 
 soma e que agora estou apelidando a soma de s"""
 
-#Basicamente é isso que a primeira linha diz.
+# Basicamente é isso que a primeira linha diz.
