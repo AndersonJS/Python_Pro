@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ad726e-b085-4bf2-bd47-a34a9d215653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/5.Debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Exemplo Módulo e import/executa_matematica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Exemplo Módulo e import/matematica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Import e __name__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,28 +16,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/3.Parametros Variáveis.py">
+        <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Import e __name__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/4.Módulo.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="101" selection-start-line="15" selection-start-column="101" selection-end-line="15" selection-end-column="101" />
+            <state relative-caret-position="60">
+              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Exemplo Módulo e import/matematica.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Exemplo Módulo e import/executa_matematica.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="107" lean-forward="true" selection-start-line="9" selection-start-column="107" selection-end-line="9" selection-end-column="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/5.Debug.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+              <caret line="5" column="4" selection-start-line="5" selection-end-line="8" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -80,6 +91,9 @@
         <option value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/3.Parametros Variáveis.py" />
         <option value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/4.Módulo.py" />
         <option value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/5.Debug.py" />
+        <option value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Import e __name__.py" />
+        <option value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Exemplo Módulo e import/executa_matematica.py" />
+        <option value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Exemplo Módulo e import/matematica.py" />
       </list>
     </option>
   </component>
@@ -123,6 +137,14 @@
               <item name="Procedural" type="462c0819:PsiDirectoryNode" />
               <item name="4.Modulação" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
+              <item name="Python Bird" type="462c0819:PsiDirectoryNode" />
+              <item name="Procedural" type="462c0819:PsiDirectoryNode" />
+              <item name="4.Modulação" type="462c0819:PsiDirectoryNode" />
+              <item name="6.Exemplo Módulo e import" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -144,49 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5.Debug">
-    <configuration name="1.Função e PEP 8" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Pro-SSH" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/1.Função e PEP 8.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2.Parametros de Função" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Pro-SSH" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/2.Parametros de Função.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.executa_matematica">
     <configuration name="3.Parametros Variáveis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Pro-SSH" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -229,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8.Iteração em Dicionário" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="6.Import e __name__" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Pro-SSH" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,11 +217,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Bird/Procedural/3.Containers e Iteração/1. String, Dir e help." />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Bird/Procedural/3.Containers e Iteração/1. String, Dir e help./8.Iteração em Dicionário.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Import e __name__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="executa_matematica" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Pro-SSH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Exemplo Módulo e import" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Exemplo Módulo e import/executa_matematica.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="matematica" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Pro-SSH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Exemplo Módulo e import" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Exemplo Módulo e import/matematica.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -252,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.executa_matematica" />
+        <item itemvalue="Python.matematica" />
+        <item itemvalue="Python.6.Import e __name__" />
         <item itemvalue="Python.5.Debug" />
         <item itemvalue="Python.3.Parametros Variáveis" />
-        <item itemvalue="Python.2.Parametros de Função" />
-        <item itemvalue="Python.1.Função e PEP 8" />
-        <item itemvalue="Python.8.Iteração em Dicionário" />
       </list>
     </recent_temporary>
   </component>
@@ -432,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551477714657</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Vamos debuga com o break point.">
+      <created>1551479503484</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1551479503484</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -469,14 +498,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1360" height="768" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23335826" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23335826" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49962604" visible="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962604" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -550,28 +578,9 @@
     <MESSAGE value="Abordagem de passagem de parametros de uma função por justapossição e por nome do atributo." />
     <MESSAGE value="Vamos aprender a aceitar um número variavel de parcelas com o *args e com **kwargs." />
     <MESSAGE value="Execução de módulo na IDE Pycharm, pelo terminal e no modo run." />
-    <option name="LAST_COMMIT_MESSAGE" value="Execução de módulo na IDE Pycharm, pelo terminal e no modo run." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/5.Debug.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/5.Debug.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/5.Debug.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Vamos debuga com o break point." />
+    <MESSAGE value="Módulo de script com import e o uso do __name__ que esta no repo. (6.Exemplo Módulo e import)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Módulo de script com import e o uso do __name__ que esta no repo. (6.Exemplo Módulo e import)." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/cronometro2.py" />
@@ -653,8 +662,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/3.Parametros Variáveis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+        <state relative-caret-position="930">
+          <caret line="62" column="7" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -665,10 +674,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Import e __name__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/5.Debug.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+          <caret line="5" column="4" selection-start-line="5" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Exemplo Módulo e import/executa_matematica.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="107" lean-forward="true" selection-start-line="9" selection-start-column="107" selection-end-line="9" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Exemplo Módulo e import/matematica.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
