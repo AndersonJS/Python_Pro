@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ad726e-b085-4bf2-bd47-a34a9d215653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicios/Contagem_de_caracteres_dct.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/Read me" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Bird/Orientado a Objetos/2.Herança/Read me" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Bird/Orientado a Objetos/Read me" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,13 +33,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercicios/Contagem_de_caracteres_dct.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="77">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="300">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/Read me">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -129,14 +136,7 @@
               <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
               <item name="Python Bird" type="462c0819:PsiDirectoryNode" />
-              <item name="Procedural" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
-              <item name="Python Bird" type="462c0819:PsiDirectoryNode" />
-              <item name="Procedural" type="462c0819:PsiDirectoryNode" />
-              <item name="4.Modulação" type="462c0819:PsiDirectoryNode" />
+              <item name="Orientado a Objetos" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -477,13 +477,17 @@
       <option name="project" value="LOCAL" />
       <updated>1551593416583</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Usando o dicionario para contar caracteres para poder usar os dados da contagem.">
+      <created>1551595690246</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1551595690246</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Doctests_in_String,_Dir_e_Help_ - 2019.02.24 at 15h 31m 52s.xml">
-      <configuration name="Doctests in String, Dir e Help." configurationId="tests" />
-    </history-entry>
     <history-entry file="Doctests_in_String,_Dir_e_Help_ - 2019.02.24 at 15h 33m 26s.xml">
       <configuration name="Doctests in String, Dir e Help." configurationId="tests" />
     </history-entry>
@@ -511,23 +515,26 @@
     <history-entry file="Doctests_in_Contagem_de_caracteres_dct - 2019.03.03 at 02h 44m 14s.xml">
       <configuration name="Doctests in Contagem_de_caracteres_dct" configurationId="tests" />
     </history-entry>
+    <history-entry file="Doctests_in_Contagem_de_caracteres_dct - 2019.03.03 at 02h 45m 28s.xml">
+      <configuration name="Doctests in Contagem_de_caracteres_dct" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1360" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23335826" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23335826" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32919255" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49962604" visible="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962604" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32919255" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32763976" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32763976" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50037396" side_tool="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -600,7 +607,8 @@
     <MESSAGE value="Módulos em Pacotes com o from, import e colocando o apelido a um trecho de script com o as" />
     <MESSAGE value="Uso da Docstring e comentário em um código." />
     <MESSAGE value="Usando a lista para contar caracteres." />
-    <option name="LAST_COMMIT_MESSAGE" value="Usando a lista para contar caracteres." />
+    <MESSAGE value="Usando o dicionario para contar caracteres para poder usar os dados da contagem." />
+    <option name="LAST_COMMIT_MESSAGE" value="Usando o dicionario para contar caracteres para poder usar os dados da contagem." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/cronometro2.py" />
@@ -762,10 +770,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exercicios/Contagem_de_caracteres_dct.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="77">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/Read me">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

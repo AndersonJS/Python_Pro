@@ -1,0 +1,25 @@
+Herança
+
+Descrição
+Nesse capítulo, depois de aprender composição no anterior, você vai aprender o outro conceito fundamental da orientação a objetos: a Herança. Na maioria dos cursos a Herança é ensinada antes da Composição. Contudo isso foi invertido propositalmente porque a composição costuma ser mais importante que a herança, tanto é que existe uma boa prática que é: "Prefira Composição a Herança". Portanto, use com parcimônia.
+
+Tópicos
+1.Herança Simples
+2.Unittest
+3.Sobrescrita de Atributo
+4.Sobrescrita de Método
+5.Tipos de Teste
+6.List Comprehension
+7.Método Protegido
+8.Ciclo de Vida de Objetos
+9.Tratamento de Exceção
+10.Fase Completa
+11.Posição de Ator
+12.Colisão entre Atores
+13.Porco e Obstáculo
+14.Classe Pássaro
+15.Controle de Lançamento
+16.Lançamento Vertical
+17.Lancamento Horizontal
+18.Gran Finale
+19.Retrospectiva: Orientação a Objetos

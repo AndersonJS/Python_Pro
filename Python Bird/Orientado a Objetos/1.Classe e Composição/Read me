@@ -1,0 +1,27 @@
+Classe e Composição
+
+Descrição:
+Nesse capítulo você vai estudar e estrutura de dados base de toda Orientação a Objetos: a Classe. 
+Além de serem abordados todos seu elementos, como atributos de dados e métodos, será também apresentado 
+o conceito de Composição. Nele você aprenderá como os Objetos, construídos através de classes, se relacionam. 
+Depois disso tudo você ainda aprender o básico sobre o controlador de versão Git e também sobre testes automáticos com Doctest.
+
+Tópicos
+1.Git no Windows
+2.Git no Ubuntu
+3.Git no Mac
+4.Github e Setup
+5.Classe
+6.Commit e Push
+7.Método
+8.Atributo de Dado
+9.Atributo Complexo
+10.Atributo Dinâmico
+11.Atributo de Classe
+12.Método de Classe
+13.Composição
+14.Doctest
+15.Implementação do Motor
+16.Implementação da Direção
+17.Implementação do Carro
+18.Fase e Atores
