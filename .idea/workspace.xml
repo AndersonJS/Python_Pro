@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ad726e-b085-4bf2-bd47-a34a9d215653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/8.Docstring e Comentário.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/8.Docstring e Comentário.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercicios/contador_de_caracteres_lista.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -70,6 +78,8 @@
         <option value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/7.Pacote.py" />
         <option value="$PROJECT_DIR$/exemplo_pacote/executa_matematica.py" />
         <option value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/8.Docstring e Comentário.py" />
+        <option value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/9.Contagem de Caracteres com Lista.py" />
+        <option value="$PROJECT_DIR$/exercicios/contador_de_caracteres_lista.py" />
       </list>
     </option>
   </component>
@@ -93,6 +103,11 @@
             <path>
               <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
+              <item name="exercicios" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
@@ -134,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.executa_matematica (3)">
+  <component name="RunManager" selected="Python.contador_de_caracteres_lista">
     <configuration name="7.Pacote" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Pro-SSH" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,6 +163,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/7.Pacote.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="contador_de_caracteres_lista" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Pro-SSH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/contador_de_caracteres_lista.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,34 +255,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="executa_matematica" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Pro-SSH" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Exemplo Módulo e import" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/6.Exemplo Módulo e import/executa_matematica.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.contador_de_caracteres_lista" />
         <item itemvalue="Python.executa_matematica (3)" />
         <item itemvalue="Python.executa_matematica (2)" />
         <item itemvalue="Python.executa_matematica (1)" />
         <item itemvalue="Python.7.Pacote" />
-        <item itemvalue="Python.executa_matematica" />
       </list>
     </recent_temporary>
   </component>
@@ -443,7 +458,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551563444203</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Uso da Docstring e comentário em um código.">
+      <created>1551592261150</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1551592261151</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -487,7 +509,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32919255" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49962604" visible="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962604" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -564,7 +586,8 @@
     <MESSAGE value="Vamos debuga com o break point." />
     <MESSAGE value="Módulo de script com import e o uso do __name__ que esta no repo. (6.Exemplo Módulo e import)." />
     <MESSAGE value="Módulos em Pacotes com o from, import e colocando o apelido a um trecho de script com o as" />
-    <option name="LAST_COMMIT_MESSAGE" value="Módulos em Pacotes com o from, import e colocando o apelido a um trecho de script com o as" />
+    <MESSAGE value="Uso da Docstring e comentário em um código." />
+    <option name="LAST_COMMIT_MESSAGE" value="Uso da Docstring e comentário em um código." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/cronometro2.py" />
@@ -703,10 +726,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/9.Contagem de Caracteres com Lista.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/8.Docstring e Comentário.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicios/contador_de_caracteres_lista.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
         </state>
       </provider>
     </entry>
