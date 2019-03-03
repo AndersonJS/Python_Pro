@@ -14,11 +14,11 @@ def contar_caracteres(s):
     resultado = {}
 
     for caracter in s:
-        resultado[caracter]=resultado.get(caracter, 0) + 1
+        resultado[caracter] = resultado.get(caracter, 0) + 1
 
     return resultado
 
-#print(__name__)
+
 if __name__ == 'Contagem_de_caracteres_dct':
     print(contar_caracteres('renzo'))
     print()
