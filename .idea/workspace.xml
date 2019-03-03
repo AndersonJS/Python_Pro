@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ad726e-b085-4bf2-bd47-a34a9d215653" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/exercicios/Contagem_de_caracteres_dct.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +22,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercicios/contador_de_caracteres_lista.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+            <state>
+              <caret column="3" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercicios/Contagem_de_caracteres_dct.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="77">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -80,6 +90,7 @@
         <option value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/8.Docstring e Comentário.py" />
         <option value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/9.Contagem de Caracteres com Lista.py" />
         <option value="$PROJECT_DIR$/exercicios/contador_de_caracteres_lista.py" />
+        <option value="$PROJECT_DIR$/exercicios/Contagem_de_caracteres_dct.py" />
       </list>
     </option>
   </component>
@@ -149,28 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.contador_de_caracteres_lista">
-    <configuration name="7.Pacote" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Pro-SSH" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/7.Pacote.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Doctests in Contagem_de_caracteres_dct">
     <configuration name="contador_de_caracteres_lista" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Pro-SSH" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,27 +174,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/contador_de_caracteres_lista.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="executa_matematica (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Pro-SSH" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/Exemplo Pacote" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Bird/Procedural/4.Modulação/Exemplo Pacote/executa_matematica.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -255,13 +224,49 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Doctest contar_caracteres" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Python_Pro-SSH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/Contagem_de_caracteres_dct.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="contar_caracteres" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_FUNCTION" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctests in Contagem_de_caracteres_dct" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <module name="Python_Pro-SSH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/Contagem_de_caracteres_dct.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Doctests in Contagem_de_caracteres_dct" />
+        <item itemvalue="Python tests.Doctest contar_caracteres" />
         <item itemvalue="Python.contador_de_caracteres_lista" />
         <item itemvalue="Python.executa_matematica (3)" />
         <item itemvalue="Python.executa_matematica (2)" />
-        <item itemvalue="Python.executa_matematica (1)" />
-        <item itemvalue="Python.7.Pacote" />
       </list>
     </recent_temporary>
   </component>
@@ -465,31 +470,17 @@
       <option name="project" value="LOCAL" />
       <updated>1551592261151</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Usando a lista para contar caracteres.">
+      <created>1551593416583</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1551593416583</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Doctests_in_String,_Dir_e_Help_ - 2019.02.24 at 15h 18m 52s.xml">
-      <configuration name="Doctests in String, Dir e Help." configurationId="tests" />
-    </history-entry>
-    <history-entry file="Doctests_in_String,_Dir_e_Help_ - 2019.02.24 at 15h 19m 02s.xml">
-      <configuration name="Doctests in String, Dir e Help." configurationId="tests" />
-    </history-entry>
-    <history-entry file="Doctests_in_String,_Dir_e_Help_ - 2019.02.24 at 15h 20m 21s.xml">
-      <configuration name="Doctests in String, Dir e Help." configurationId="tests" />
-    </history-entry>
-    <history-entry file="Doctests_in_String,_Dir_e_Help_ - 2019.02.24 at 15h 21m 11s.xml">
-      <configuration name="Doctests in String, Dir e Help." configurationId="tests" />
-    </history-entry>
-    <history-entry file="Doctests_in_String,_Dir_e_Help_ - 2019.02.24 at 15h 21m 31s.xml">
-      <configuration name="Doctests in String, Dir e Help." configurationId="tests" />
-    </history-entry>
-    <history-entry file="Doctests_in_String,_Dir_e_Help_ - 2019.02.24 at 15h 26m 50s.xml">
-      <configuration name="Doctests in String, Dir e Help." configurationId="tests" />
-    </history-entry>
-    <history-entry file="Doctests_in_String,_Dir_e_Help_ - 2019.02.24 at 15h 27m 18s.xml">
-      <configuration name="Doctests in String, Dir e Help." configurationId="tests" />
-    </history-entry>
     <history-entry file="Doctests_in_String,_Dir_e_Help_ - 2019.02.24 at 15h 31m 52s.xml">
       <configuration name="Doctests in String, Dir e Help." configurationId="tests" />
     </history-entry>
@@ -499,17 +490,38 @@
     <history-entry file="Doctests_in_String,_Dir_e_Help_ - 2019.02.24 at 15h 52m 01s.xml">
       <configuration name="Doctests in String, Dir e Help." configurationId="tests" />
     </history-entry>
+    <history-entry file="Doctests_in_Contagem_de_caracteres_dct - 2019.03.03 at 02h 35m 06s.xml">
+      <configuration name="Doctests in Contagem_de_caracteres_dct" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Contagem_de_caracteres_dct - 2019.03.03 at 02h 36m 48s.xml">
+      <configuration name="Doctests in Contagem_de_caracteres_dct" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_contar_caracteres - 2019.03.03 at 02h 38m 45s.xml">
+      <configuration name="Doctest contar_caracteres" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_contar_caracteres - 2019.03.03 at 02h 41m 31s.xml">
+      <configuration name="Doctest contar_caracteres" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_contar_caracteres - 2019.03.03 at 02h 42m 23s.xml">
+      <configuration name="Doctest contar_caracteres" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_contar_caracteres - 2019.03.03 at 02h 43m 06s.xml">
+      <configuration name="Doctest contar_caracteres" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_Contagem_de_caracteres_dct - 2019.03.03 at 02h 44m 14s.xml">
+      <configuration name="Doctests in Contagem_de_caracteres_dct" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1360" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23335826" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23335826" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32919255" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962604" visible="true" weight="0.32919255" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49962604" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39906833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -587,7 +599,8 @@
     <MESSAGE value="Módulo de script com import e o uso do __name__ que esta no repo. (6.Exemplo Módulo e import)." />
     <MESSAGE value="Módulos em Pacotes com o from, import e colocando o apelido a um trecho de script com o as" />
     <MESSAGE value="Uso da Docstring e comentário em um código." />
-    <option name="LAST_COMMIT_MESSAGE" value="Uso da Docstring e comentário em um código." />
+    <MESSAGE value="Usando a lista para contar caracteres." />
+    <option name="LAST_COMMIT_MESSAGE" value="Usando a lista para contar caracteres." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/cronometro2.py" />
@@ -742,8 +755,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/exercicios/contador_de_caracteres_lista.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        <state>
+          <caret column="3" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercicios/Contagem_de_caracteres_dct.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
