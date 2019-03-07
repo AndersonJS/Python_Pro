@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ad726e-b085-4bf2-bd47-a34a9d215653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/5.Classe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/6.Commit e Push.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,11 +22,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/5.Classe.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/6.Commit e Push.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -87,6 +96,7 @@
         <option value="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/3.Git no Mac.py" />
         <option value="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/4.Github e Setup.py" />
         <option value="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/5.Classe.py" />
+        <option value="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/6.Commit e Push.py" />
       </list>
     </option>
   </component>
@@ -522,7 +532,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551977625914</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Criando uma classe">
+      <created>1551979683368</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1551979683368</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -621,7 +638,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Descrição do capitulo e seus tópicos." />
     <MESSAGE value="Metodos de Iteração com Strings, Lista, Tuplas e Dicionários." />
     <MESSAGE value="Criando Tupla e fazer busca de id" />
     <MESSAGE value="Fatiamentos de lista visando a legibilidade do código." />
@@ -646,7 +662,8 @@
     <MESSAGE value="Instalando o Git no Ubunto e derivados(Linux)." />
     <MESSAGE value="Instalando o Homebrew e o Git no Mac." />
     <MESSAGE value="Github, fazendo o primeiro fork de um projeto." />
-    <option name="LAST_COMMIT_MESSAGE" value="Github, fazendo o primeiro fork de um projeto." />
+    <MESSAGE value="Criando uma classe" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando uma classe" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/cronometro2.py" />
@@ -840,8 +857,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/5.Classe.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/6.Commit e Push.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
         </state>
       </provider>
     </entry>
