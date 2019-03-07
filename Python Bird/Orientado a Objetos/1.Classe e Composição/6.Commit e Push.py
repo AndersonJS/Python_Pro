@@ -1,4 +1,4 @@
-"""Para enviar suas alterações e criações ao gihub, procure na barra superior do PyCharm por Git e uma seta azul que
+"""Para enviar suas alterações e criações ao github, procure na barra superior do PyCharm por Git e uma seta azul que
 atualizar seus repositório e ao lado tem outro simbolo que parece uma marcação de certo verde, este certo verde é o
 commit e o atalho para ele é ctrl + k.
 
