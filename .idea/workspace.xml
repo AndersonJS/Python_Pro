@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ad726e-b085-4bf2-bd47-a34a9d215653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/6.Commit e Push.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/7.Método.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/4.Github e Setup.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="307">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -26,16 +26,25 @@
         <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/5.Classe.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/6.Commit e Push.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="48" selection-start-column="48" selection-end-column="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/6.Commit e Push.py">
+        <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/7.Método.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -97,13 +106,14 @@
         <option value="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/4.Github e Setup.py" />
         <option value="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/5.Classe.py" />
         <option value="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/6.Commit e Push.py" />
+        <option value="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/7.Método.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="684" />
-    <option name="width" value="672" />
-    <option name="height" value="737" />
+    <option name="width" value="682" />
+    <option name="height" value="739" />
   </component>
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
@@ -120,11 +130,6 @@
             <path>
               <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
-              <item name="exercicios" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
@@ -148,11 +153,39 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="Python_Pro-SSH" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="Python_Pro-SSH" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Python Bird" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Python_Pro-SSH" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Python Bird" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Orientado a Objetos" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="Python_Pro-SSH" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Python Bird" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Orientado a Objetos" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="1.Classe e Composição" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PycharmProjects/pythonbirds" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -539,7 +572,21 @@
       <option name="project" value="LOCAL" />
       <updated>1551979683368</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Atalhos de commit e push no PyCharm">
+      <created>1551981115738</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1551981115738</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Atalhos de commit e push no PyCharm">
+      <created>1551989807336</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1551989807336</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -575,12 +622,12 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1360" height="768" extended-state="6" />
+    <frame x="0" y="-1" width="1366" height="768" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.20044877" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.19955324" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32919255" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4988781" weight="0.32919255" />
@@ -589,8 +636,8 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32919255" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49962604" visible="true" weight="0.32298136" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50037396" side_tool="true" visible="true" weight="0.32298136" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4996277" visible="true" weight="0.32298136" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003723" side_tool="true" visible="true" weight="0.32298136" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -638,7 +685,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Metodos de Iteração com Strings, Lista, Tuplas e Dicionários." />
     <MESSAGE value="Criando Tupla e fazer busca de id" />
     <MESSAGE value="Fatiamentos de lista visando a legibilidade do código." />
     <MESSAGE value="Tipo de laço while com range." />
@@ -663,7 +709,8 @@
     <MESSAGE value="Instalando o Homebrew e o Git no Mac." />
     <MESSAGE value="Github, fazendo o primeiro fork de um projeto." />
     <MESSAGE value="Criando uma classe" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando uma classe" />
+    <MESSAGE value="Atalhos de commit e push no PyCharm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atalhos de commit e push no PyCharm" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/cronometro2.py" />
@@ -851,21 +898,28 @@
     <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/4.Github e Setup.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="307">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/5.Classe.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/6.Commit e Push.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="48" selection-start-column="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/7.Método.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
