@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="17ad726e-b085-4bf2-bd47-a34a9d215653" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/7.Método.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/8.Atributo de Dado.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +16,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/4.Github e Setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
+            <state relative-caret-position="375">
               <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
@@ -40,11 +40,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/7.Método.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/8.Atributo de Dado.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -107,6 +116,7 @@
         <option value="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/5.Classe.py" />
         <option value="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/6.Commit e Push.py" />
         <option value="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/7.Método.py" />
+        <option value="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/8.Atributo de Dado.py" />
       </list>
     </option>
   </component>
@@ -124,35 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
-              <item name="Python Bird" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
-              <item name="Python Bird" type="462c0819:PsiDirectoryNode" />
-              <item name="Orientado a Objetos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
-              <item name="Python Bird" type="462c0819:PsiDirectoryNode" />
-              <item name="Orientado a Objetos" type="462c0819:PsiDirectoryNode" />
-              <item name="1.Classe e Composição" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -182,6 +163,35 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
+              <item name="Python Bird" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
+              <item name="Python Bird" type="462c0819:PsiDirectoryNode" />
+              <item name="Orientado a Objetos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_Pro-SSH" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_Pro-SSH" type="462c0819:PsiDirectoryNode" />
+              <item name="Python Bird" type="462c0819:PsiDirectoryNode" />
+              <item name="Orientado a Objetos" type="462c0819:PsiDirectoryNode" />
+              <item name="1.Classe e Composição" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -199,7 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4.Github e Setup">
+  <component name="RunManager" selected="Python.8.Atributo de Dado">
     <configuration name="4.Github e Setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Pro-SSH" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,6 +231,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="8.Atributo de Dado" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_Pro-SSH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/8.Atributo de Dado.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="contador_de_caracteres_lista" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_Pro-SSH" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,27 +265,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/contador_de_caracteres_lista.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="executa_matematica (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_Pro-SSH" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exemplo_pacote" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exemplo_pacote/executa_matematica.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,11 +311,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.8.Atributo de Dado" />
         <item itemvalue="Python.4.Github e Setup" />
         <item itemvalue="Python tests.Doctests in Contagem_de_caracteres_dct" />
         <item itemvalue="Python tests.Doctest contar_caracteres" />
         <item itemvalue="Python.contador_de_caracteres_lista" />
-        <item itemvalue="Python.executa_matematica (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -586,7 +596,14 @@
       <option name="project" value="LOCAL" />
       <updated>1551989807336</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Criando o primeiro método de uma classe.">
+      <created>1551990674280</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1551990674280</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -622,22 +639,22 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1366" height="768" extended-state="6" />
+    <frame x="0" y="-1" width="1360" height="740" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.19955324" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.20044877" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32919255" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4988781" weight="0.32919255" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4973822" weight="0.39906833" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4973822" visible="true" weight="0.32792208" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49663424" weight="0.39772728" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32919255" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4996277" visible="true" weight="0.32298136" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003723" side_tool="true" visible="true" weight="0.32298136" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4988781" weight="0.33766234" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5026178" side_tool="true" visible="true" weight="0.32792208" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32919255" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -685,7 +702,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Criando Tupla e fazer busca de id" />
     <MESSAGE value="Fatiamentos de lista visando a legibilidade do código." />
     <MESSAGE value="Tipo de laço while com range." />
     <MESSAGE value="Comparação While e For com estruturação de um for legivel." />
@@ -710,7 +726,8 @@
     <MESSAGE value="Github, fazendo o primeiro fork de um projeto." />
     <MESSAGE value="Criando uma classe" />
     <MESSAGE value="Atalhos de commit e push no PyCharm" />
-    <option name="LAST_COMMIT_MESSAGE" value="Atalhos de commit e push no PyCharm" />
+    <MESSAGE value="Criando o primeiro método de uma classe." />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando o primeiro método de uma classe." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Python Bird/Procedural/cronometro2.py" />
@@ -897,7 +914,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/4.Github e Setup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
+        <state relative-caret-position="375">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
@@ -919,7 +936,14 @@
     <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/7.Método.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python Bird/Orientado a Objetos/1.Classe e Composição/8.Atributo de Dado.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
