@@ -7,7 +7,7 @@ falar para você de um método especial, que o chamado dander init que é de ini
 Para criar então um atributo de objeto você vai utilizar o self e vai criar o seu atributo, uma forma de definir que um
 campo existe mais não tem nem um valor que foi atribuido a ele é utilizar o valor nome de nulo."""
 
-print(__name__)  # Só quando estou colocando esse print o escopo é impresso.
+#print(__name__)  # Só quando estou colocando esse print o escopo é impresso.
 
 
 class Pessoa:
